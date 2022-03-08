@@ -1,0 +1,16 @@
+C:\Users\ridva\Desktop\RehberUygulaması\bin\Debug\net5.0\RehberUygulaması.exe
+C:\Users\ridva\Desktop\RehberUygulaması\bin\Debug\net5.0\RehberUygulaması.deps.json
+C:\Users\ridva\Desktop\RehberUygulaması\bin\Debug\net5.0\RehberUygulaması.runtimeconfig.json
+C:\Users\ridva\Desktop\RehberUygulaması\bin\Debug\net5.0\RehberUygulaması.runtimeconfig.dev.json
+C:\Users\ridva\Desktop\RehberUygulaması\bin\Debug\net5.0\RehberUygulaması.dll
+C:\Users\ridva\Desktop\RehberUygulaması\bin\Debug\net5.0\RehberUygulaması.pdb
+C:\Users\ridva\Desktop\RehberUygulaması\obj\Debug\net5.0\RehberUygulaması.csproj.AssemblyReference.cache
+C:\Users\ridva\Desktop\RehberUygulaması\obj\Debug\net5.0\RehberUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridva\Desktop\RehberUygulaması\obj\Debug\net5.0\RehberUygulaması.AssemblyInfoInputs.cache
+C:\Users\ridva\Desktop\RehberUygulaması\obj\Debug\net5.0\RehberUygulaması.AssemblyInfo.cs
+C:\Users\ridva\Desktop\RehberUygulaması\obj\Debug\net5.0\RehberUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\RehberUygulaması\obj\Debug\net5.0\RehberUygulaması.dll
+C:\Users\ridva\Desktop\RehberUygulaması\obj\Debug\net5.0\refint\RehberUygulaması.dll
+C:\Users\ridva\Desktop\RehberUygulaması\obj\Debug\net5.0\RehberUygulaması.pdb
+C:\Users\ridva\Desktop\RehberUygulaması\obj\Debug\net5.0\RehberUygulaması.genruntimeconfig.cache
+C:\Users\ridva\Desktop\RehberUygulaması\obj\Debug\net5.0\ref\RehberUygulaması.dll
